@@ -12,7 +12,7 @@ This repo is for the ConstitutionDAO contracts.
 
 ## How to contribute
 
-Please join #dev on the [discord]((https://discord.gg/XQcmCmWDn8)) and ask [@sethfork](https://github.com/sethfork) to add you to the GitHub org / repos.
+Please join #dev on the discord and ask [@sethfork](https://github.com/sethfork) to add you to the GitHub org / repos.
 
 ## Docs
 
@@ -22,7 +22,7 @@ How we get started is currently being discussed in #dev.
 
 ## Structure of README
 
-Please add ideas for how to structure the README:
+**Please add ideas for how to structure the README:**
 - TL;DR
 - Learn more
 - How to contribute
@@ -30,4 +30,4 @@ Please add ideas for how to structure the README:
 
 ## Contents of README
 
-Please add ideas for content that should be included in the README:
+**Please add ideas for content that should be included in the README:**
