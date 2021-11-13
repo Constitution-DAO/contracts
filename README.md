@@ -12,9 +12,9 @@
 
 1. [Juicebox Protocol](https://juicebox.money/) was best equipped to roll up their sleeves on work with us on deploying the contract that will enable us to pursue this monumental undertaking (and waive all of their fees 🙏). Their work with SharkDAO and others is a testament to what they can accomplish and we're glad to have them on board. The community should look over the contracts. `@jango` is the contact for getting oriented there.
 
-2. In the meantime we have a repo where we can start organizing devs and getting people on the same page with things. There's a HIGH chance we don't end up using any smart contracts that we write in there, but it's a good place to start discussions about governance and technical specifics about what we want to do. Hit up @sethfork to get oriented there.
+2. In the meantime, we have a repo where we can start organizing devs and getting people on the same page with things. There's a HIGH chance we don't end up using any smart contracts that we write in there, but it's a good place to start discussions about governance and technical specifics about what we want to do. Hit up @sethfork to get oriented there.
 
-3. If you don't want to do #1 or #2, then look at `What are people working on?` and `What are things we might want to start doing?` below. Then find something that interests you and matches your skillset. Then, @ the most relevant team member (roles listed below) in #dev on discord
+3. If you don't want to do #1 or #2, then look at `What are people working on?` and `What are things we might want to start doing?` below. Find something that interests you / matches your skillset and reach out to the most relevant team member (roles listed below) in #dev on discord.
 
 ### What are people working on?
 
@@ -27,8 +27,8 @@
 - `@ty` is managing this README
 
 ### What are things we might want to start doing?
+- We could use help auditing the Juicebox protocol and contracts
 - Make proposals in PRs and we can get moving on decision making wrt governance/tokens/etc.
-- No tests have been written yet for the contracts, so we could get started on that
 - It would be great to coordinate with #design-and-marketing-🎨 for a quick prototype of a minimal fundraising page
 
 ### Juicebox FAQs
@@ -74,6 +74,10 @@ A: Juicebox doesn't have an opinion on this. It just issues tokens and manages t
 **Q: what's the biggest project juicebox has handled? how much is not being audited a problem?**
 
 A: The protocol was deployed in July, SharkDAO ($5M in ETH) is the biggest we've seen to date. Also TileDAO and JuiceboxDAO itself
+
+**What about motivated adversarial agents?**
+
+We are thinking throu
 
 **Does Juicebox exist on any L2s yet? Arbitrum? Etc?**
 
