@@ -62,7 +62,11 @@ A: Anyone can [try juicebox on rinkeby](http://rinkeby.juicebox.money/) by click
 
 A: We'd create a pool with the extra funds for token holders to claim. Or, leave in in the DAO's treasury for token holders to govern in other ways.
 
-### FAQs
+**Q: Is there a way the dao could decide what to do with the excess with Juicebox?**
+
+A: Juicebox doesn't have an opinion on this. It just issues tokens and manages the funds ==> gives people an option to burn their tokens for some of whats in the treasury.
+
+### General FAQs
 
 **Q: What is our highest priority?**
 
@@ -75,7 +79,6 @@ A: Depends what platform we end up choosing. We're waiting to hear back from som
 **Q: What is our ENS?**
 
 A: Our ens is `constitutiondao.eth` thanks to @alicemama
-
 
 ## Learn more
 - [Website](https://constitutiondao.com/)
