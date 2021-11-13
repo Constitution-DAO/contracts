@@ -12,7 +12,9 @@ This repo is for the ConstitutionDAO contracts.
 
 ## How to contribute
 
-Please join #dev on the discord and ask [@sethfork](https://github.com/sethfork) to add you to the GitHub org / repos.
+- Please join #dev on the discord
+- Ask [@sethfork](https://github.com/sethfork) to add you to the GitHub org / repos
+- Ask @pmoncada for what you can help with
 
 ## Docs
 
@@ -40,4 +42,4 @@ Ongoing tasks that you might be able to help with...
 
 ### What are things we might want to start doing?
 - Make proposals in PRs and we can get moving on decision making wrt governance/tokens/etc.
-- Join us for the web3 workshops with @jango
+- Join us for the web3 workshops with @jango (will post in #dev with more info soon)
