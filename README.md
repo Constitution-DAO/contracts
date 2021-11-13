@@ -41,20 +41,28 @@ Resources
 - [For starters](https://www.figma.com/file/dHsQ7Bt3ryXbZ2sRBAfBq5/Juicebox-Technical-Docs)
 
 **Q: Which fund tokens do we accept?**
+
 A: ETH
 
 **Q: What is the ratio of gov/tokens to fund tokens?**
+
 A: 1,000,000 token per ETH
 
 **Q: Is there a cap?**
+
 A: No cap
 
 **Do we want to take any measures to make sure the majority of gov tokens don't wind up in the hands of a few?**
+
 A: Not possible.
 
 **Q: How can I try out Juicebox?**
 
 A: Anyone can [try juicebox on rinkeby](http://rinkeby.juicebox.money/) by clicking the `design your project` button
+
+**Q: Could we do a partial refund when ppl claim their tokens. Lets say we raise 20M and only use 15M. How can we give the excess back?**
+
+A: We'd create a pool with the extra funds for token holders to claim. Or, leave in in the DAO's treasury for token holders to govern in other ways.
 
 ### FAQs
 
