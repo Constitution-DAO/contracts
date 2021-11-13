@@ -27,22 +27,15 @@ This repo is for the ConstitutionDAO contracts.
 
 Both things are happening in tandem. If you have questions, then ping @pmoncada on discord.
 
-### Team members
+### What are people working on?
 
 - @alicemama is in charge of the website
 - @pmoncada is leading #dev right now
 - @sethfork owns the org / repos
-- @jango for web3 workshops
+- @jango for juicebox.money and web3 workshops
 - @bwags is setting up multisig
 - @ncitron is working on tests for the contracts
 - @ty is managing this README
-
-### What are people working on?
-
-Ongoing tasks that you might be able to help with...
-- Security / auditing of juicebox.money's contracts]
-- DNS for emails
-- Setting up multi-sig wallet
 
 ### What are things we might want to start doing?
 - Make proposals in PRs and we can get moving on decision making wrt governance/tokens/etc.
