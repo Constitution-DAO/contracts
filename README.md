@@ -25,11 +25,11 @@ Both things are happening in tandem. If you have questions, then ping @pmoncada 
 
 ### Team members
 
-@alicemama is in charge of the website
-@pmoncada is leading #dev right now
-@sethfork owns the org / repos
-@jango for web3 workshops
-@ty is managing this README
+- @alicemama is in charge of the website
+- @pmoncada is leading #dev right now
+- @sethfork owns the org / repos
+- @jango for web3 workshops
+- @ty is managing this README
 
 ### What are people working on?
 
