@@ -36,6 +36,7 @@ Our ens is `constitutiondao.eth` thanks to @alicemama
 - @sethfork owns the org / repos
 - @jango for web3 workshops
 - @bwags is setting up multisig
+- @ncitron is working on tests for the contracts
 - @ty is managing this README
 
 ### What are people working on?
