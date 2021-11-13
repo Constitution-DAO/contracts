@@ -64,7 +64,7 @@ A: We'd create a pool with the extra funds for token holders to claim. Or, leave
 
 **Q: Is there a way the dao could decide what to do with the excess with Juicebox?**
 
-A: Juicebox doesn't have an opinion on this. It just issues tokens and manages the funds ==> gives people an option to burn their tokens for some of whats in the treasury.
+A: Juicebox doesn't have an opinion on this. It just issues tokens and manages the funds ==> gives people an option to burn their tokens for some of whats in the treasury. We can build contracts that use the tokens for decision making, or just use snapshot votes + multisig.
 
 ### General FAQs
 
