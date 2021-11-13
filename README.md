@@ -68,7 +68,7 @@ A: Juicebox doesn't have an opinion on this. It just issues tokens and manages t
 
 **Q: what's the biggest project juicebox has handled? how much is not being audited a problem?**
 
-A: SharkDAO ($5M in ETH), TileDAO, JuiceboxDAO itself
+A: The protocol was deployed in July, SharkDAO ($5M in ETH) is the biggest we've seen to date. Also TileDAO and JuiceboxDAO itself
 
 ### General FAQs
 
