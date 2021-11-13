@@ -52,6 +52,7 @@ Resources
 
 Things to know
 - The fundraise would only be in ETH
+- Anyone can [try juicebox on rinkeby](http://rinkeby.juicebox.money/) by clicking the `design your project` button
 
 ### FAQs
 
