@@ -25,12 +25,17 @@ This repo is for the ConstitutionDAO contracts.
 
 Both things are happening in tandem. If you have questions, then ping @pmoncada on discord.
 
+###
+
+Our ens is `constitutiondao.eth` thanks to @alicemama
+
 ### Team members
 
 - @alicemama is in charge of the website
 - @pmoncada is leading #dev right now
 - @sethfork owns the org / repos
 - @jango for web3 workshops
+- @bwags is setting up multisig
 - @ty is managing this README
 
 ### What are people working on?
@@ -43,3 +48,11 @@ Ongoing tasks that you might be able to help with...
 ### What are things we might want to start doing?
 - Make proposals in PRs and we can get moving on decision making wrt governance/tokens/etc.
 - Join us for the web3 workshops with @jango (will post in #dev with more info soon)
+- No tests have been written yet for the contracts, so we could get started on that
+- It would be great to coordinate with #design-and-marketing-🎨 for a quick prototype of a minimal fundraising page
+
+### FAQs
+
+Q: The soft commit form has options for non-eth. Is fiat contribution even possible?
+
+A: Depends what platform we end up choosing. We're waiting to hear back from some other discussions. Stay tuned!
