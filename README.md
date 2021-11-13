@@ -10,7 +10,7 @@
 
 ### Getting started
 
-1. We're looking at using Mirror or Juicebox.money to do a crowdfund for the token. We are coordinating with juicebox.money right now to use their platform to crowdfund - those contracts are likely much more solid than anything we can write up right now in the moment. But we should have the community look over the contracts @jango is the contact for getting oriented there
+1. [Juicebox Protocol](https://juicebox.money/) was best equipped to roll up their sleeves on work with us on deploying the contract that will enable us to pursue this monumental undertaking (and waive all of their fees 🙏). Their work with SharkDAO and others is a testament to what they can accomplish and we're glad to have them on board. The community should look over the contracts. `@jango` is the contact for getting oriented there.
 
 2. In the meantime we have a repo where we can start organizing devs and getting people on the same page with things. There's a HIGH chance we don't end up using any smart contracts that we write in there, but it's a good place to start discussions about governance and technical specifics about what we want to do. Hit up @sethfork to get oriented there.
 
@@ -18,8 +18,8 @@
 
 ### What are people working on?
 
-- `@alicemama` is in charge of the website
-- `@pmoncada` is leading #dev right now
+- `@alicemama` is in leading the website
+- `@pmoncada` is leading in the #dev channel right now
 - `@sethfork` is leading OpenZeppelin and owns the org / repos
 - `@jango` is leading juicebox.money and web3 workshops
 - `@bwags` is setting up multisig
@@ -79,10 +79,6 @@ A: not yet but erc20 project tokens on L1 can naturally be bridged to L2s or sid
 **Q: What is our highest priority?**
 
 A: Security is the highest priority. This is going to be a high-profile raise and someone will try to exploit us in every way. Trusting someone with the $20M is unavoidable for making the bid. Either we need to convert to fiat ourselves and move to a bank, or we can partner with a non-profit to handle this for us. It is preferable to give contributors ownership of the DAO as they add funds instead of anything retroactive. Therefore at the moment we are leaning most towards using Juicebox due to their ease of minting tokens on contribution, fund overflow mechanics, and demonstrated battle-testing. As of right now, ConstitutionDAO core team is talking with some core developers at Juicebox to work out the details.
-
-**Q: The soft commit form has options for non-eth. Is fiat contribution even possible?**
-
-A: Depends what platform we end up choosing. We're waiting to hear back from some other discussions. Stay tuned!
 
 **Q: What is our ENS?**
 
