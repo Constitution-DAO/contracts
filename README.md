@@ -53,6 +53,12 @@ A: No cap
 
 A: Not possible.
 
+**How can you audit the Juicebox protocol?**
+
+A: The tests for V1 are really thorough for those auditors who want to go through quickly
+- unit: https://github.com/jbx-protocol/juice-contracts/tree/main/test/unit/v1
+- integration/load: https://github.com/jbx-protocol/juice-contracts/tree/main/test/integration/v1.
+
 **Q: How can I try out Juicebox?**
 
 A: Anyone can [try juicebox on rinkeby](http://rinkeby.juicebox.money/) by clicking the `design your project` button
