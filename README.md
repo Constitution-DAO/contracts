@@ -70,6 +70,10 @@ A: Juicebox doesn't have an opinion on this. It just issues tokens and manages t
 
 A: The protocol was deployed in July, SharkDAO ($5M in ETH) is the biggest we've seen to date. Also TileDAO and JuiceboxDAO itself
 
+**Does Juicebox exist on any L2s yet? Arbitrum? Etc?**
+
+A: not yet but erc20 project tokens on L1 can naturally be bridged to L2s or sidechains
+
 ### General FAQs
 
 **Q: What is our highest priority?**
