@@ -25,10 +25,6 @@ This repo is for the ConstitutionDAO contracts.
 
 Both things are happening in tandem. If you have questions, then ping @pmoncada on discord.
 
-###
-
-Our ens is `constitutiondao.eth` thanks to @alicemama
-
 ### Team members
 
 - @alicemama is in charge of the website
@@ -54,6 +50,10 @@ Ongoing tasks that you might be able to help with...
 
 ### FAQs
 
-Q: The soft commit form has options for non-eth. Is fiat contribution even possible?
+**Q: The soft commit form has options for non-eth. Is fiat contribution even possible?**
 
 A: Depends what platform we end up choosing. We're waiting to hear back from some other discussions. Stay tuned!
+
+**Q: What is our ENS?**
+
+A: Our ens is `constitutiondao.eth` thanks to @alicemama
