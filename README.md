@@ -14,6 +14,7 @@ This repo is for the ConstitutionDAO contracts.
 
 1. Please join #dev on the discord
 2. Ask [@sethfork](https://github.com/sethfork) to add you to the GitHub org / repos
+3. Read `Getting started` below
 
 ## Docs
 
@@ -25,17 +26,15 @@ This repo is for the ConstitutionDAO contracts.
 
 3. If you don't want to do #1 or #2, then look at `What are people working on?` and `What are things we might want to start doing?` below. Then find something that interests you and matches your skillset. Then, @ the most relevant team member (roles listed below) in #dev on discord
 
-Both things are happening in tandem. If you have questions, then ping @pmoncada on discord.
-
 ### What are people working on?
 
-- @alicemama is in charge of the website
-- @pmoncada is leading #dev right now
-- @sethfork owns the org / repos
-- @jango for juicebox.money and web3 workshops
-- @bwags is setting up multisig
-- @ncitron is working on tests for the contracts
-- @ty is managing this README
+- `@alicemama` is in charge of the website
+- `@pmoncada` is leading #dev right now
+- `@sethfork` owns the org / repos
+- `@jango` for juicebox.money and web3 workshops
+- `@bwags` is setting up multisig
+- `@ncitron` is working on tests for the contracts
+- `@ty` is managing this README
 
 ### What are things we might want to start doing?
 - Make proposals in PRs and we can get moving on decision making wrt governance/tokens/etc.
