@@ -32,13 +32,11 @@
 - No tests have been written yet for the contracts, so we could get started on that
 - It would be great to coordinate with #design-and-marketing-🎨 for a quick prototype of a minimal fundraising page
 
-### Juicebox
+### Juicebox FAQs
 
-Juicebox contracts workshop will start at 10:00pm CET on Sat, Nov 13 in #dev
+**Q: Where can I learn more about Juicebox**
 
-Resources
-- [An idea of how ConstitutionDAO will use the many Juicebox tools](https://juiceboxdao.notion.site/ConstitutionDAO-on-Juicebox-4490ae7fb2ea4c7d82aa6fff5bfae477)
-- [For starters](https://www.figma.com/file/dHsQ7Bt3ryXbZ2sRBAfBq5/Juicebox-Technical-Docs)
+Juicebox contracts workshop will start at 10:00pm CET on Sat, Nov 13 in #dev. Here is [an idea of how ConstitutionDAO will use the many Juicebox tools](https://juiceboxdao.notion.site/ConstitutionDAO-on-Juicebox-4490ae7fb2ea4c7d82aa6fff5bfae477). You can also check out [these docs](https://www.figma.com/file/dHsQ7Bt3ryXbZ2sRBAfBq5/Juicebox-Technical-Docs) to get started
 
 **Q: Which fund tokens do we accept?**
 
