@@ -42,6 +42,14 @@ This repo is for the ConstitutionDAO contracts.
 - No tests have been written yet for the contracts, so we could get started on that
 - It would be great to coordinate with #design-and-marketing-🎨 for a quick prototype of a minimal fundraising page
 
+### Juicebox
+
+Juicebox contracts workshop will start at 10:00pm CET on Sat, Nov 13
+
+Resources
+- [An idea of how ConstitutionDAO will use the many Juicebox tools](https://juiceboxdao.notion.site/ConstitutionDAO-on-Juicebox-4490ae7fb2ea4c7d82aa6fff5bfae477)
+- [For starters](https://www.figma.com/file/dHsQ7Bt3ryXbZ2sRBAfBq5/Juicebox-Technical-Docs)
+
 ### FAQs
 
 **Q: What is our highest priority?**
