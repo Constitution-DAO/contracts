@@ -19,11 +19,11 @@ This repo is for the ConstitutionDAO contracts.
 
 ### Getting started
 
-1. We're looking at using Mirror or Juicebox.money to do a crowdfund for the token. We are coordinating with juicebox.money right now to use their platform to crowdfund - those contracts are likely much more solid than anything we can write up right now in the moment. But we should have the community look over the contracts @jango is your man for getting oriented there
+1. We're looking at using Mirror or Juicebox.money to do a crowdfund for the token. We are coordinating with juicebox.money right now to use their platform to crowdfund - those contracts are likely much more solid than anything we can write up right now in the moment. But we should have the community look over the contracts @jango is the contact for getting oriented there
 
 2. In the meantime we have a repo where we can start organizing devs and getting people on the same page with things. There's a HIGH chance we don't end up using any smart contracts that we write in there, but it's a good place to start discussions about governance and technical specifics about what we want to do. Hit up @sethfork to get oriented there.
 
-3. If you don't want to do #2, then look at `What are people working on?` and `What are things we might want to start doing?` below. Then find something that interests you and matches your skillset. Then, @ the most relevant team member (roles listed below) in #dev on discord
+3. If you don't want to do #1 or #2, then look at `What are people working on?` and `What are things we might want to start doing?` below. Then find something that interests you and matches your skillset. Then, @ the most relevant team member (roles listed below) in #dev on discord
 
 Both things are happening in tandem. If you have questions, then ping @pmoncada on discord.
 
