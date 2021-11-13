@@ -40,9 +40,21 @@ Resources
 - [An idea of how ConstitutionDAO will use the many Juicebox tools](https://juiceboxdao.notion.site/ConstitutionDAO-on-Juicebox-4490ae7fb2ea4c7d82aa6fff5bfae477)
 - [For starters](https://www.figma.com/file/dHsQ7Bt3ryXbZ2sRBAfBq5/Juicebox-Technical-Docs)
 
-Things to know
-- The fundraise would only be in ETH
-- Anyone can [try juicebox on rinkeby](http://rinkeby.juicebox.money/) by clicking the `design your project` button
+**Q: Which fund tokens do we accept?**
+A: ETH
+
+**Q: What is the ratio of gov/tokens to fund tokens?**
+A: 1,000,000 token per ETH
+
+**Q: Is there a cap?**
+A: No cap
+
+**Do we want to take any measures to make sure the majority of gov tokens don't wind up in the hands of a few?**
+A: Not possible.
+
+**Q: How can I try out Juicebox?**
+
+A: Anyone can [try juicebox on rinkeby](http://rinkeby.juicebox.money/) by clicking the `design your project` button
 
 ### FAQs
 
