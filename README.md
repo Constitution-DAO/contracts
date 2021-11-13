@@ -1,15 +1,5 @@
 # ConstitutionDAO: Contracts
 
-## TL;DR
-
-This repo is for the ConstitutionDAO contracts.
-
-## Learn more
-- [Website](https://constitutiondao.com/)
-- [Discord](https://discord.gg/XQcmCmWDn8)
-- [Twitter](https://twitter.com/constitutiondao)
-- [FAQs](https://docs.google.com/document/d/1i1zLBXpdFdojvQVXpYBbeABEi7io60j0gOnM4uyZBdI)
-
 ## How to contribute
 
 1. Please join #dev on the discord
@@ -67,3 +57,10 @@ A: Depends what platform we end up choosing. We're waiting to hear back from som
 **Q: What is our ENS?**
 
 A: Our ens is `constitutiondao.eth` thanks to @alicemama
+
+
+## Learn more
+- [Website](https://constitutiondao.com/)
+- [Discord](https://discord.gg/XQcmCmWDn8)
+- [Twitter](https://twitter.com/constitutiondao)
+- [FAQs](https://docs.google.com/document/d/1i1zLBXpdFdojvQVXpYBbeABEi7io60j0gOnM4uyZBdI)
