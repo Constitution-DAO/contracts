@@ -1,6 +1,6 @@
-# lastest state in `#dev`
+# lastest state in `#dev` (as of 9:30pm PST on Nov 14th)
 
-`Note from m1guelpf#4217`
+`Note from @m1guelpf#4217`
 
 *Hey devs! We experimented with a bunch of ideas regarding different ways to approach raising the funds, but have decided to end up going with Juicebox, which has already been audited and should be much more solid than anything we can get out in a few days. I'm super thankful of everyone who has dedicated their time to building the "unofficial" contracts, but since we're not going to be using those and we don't want any confusion, we would like to ask y'all to rename the GitHub organization (since right now it looks a bit more official than it actually is).*
 
