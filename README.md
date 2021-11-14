@@ -1,4 +1,10 @@
-# ConstitutionDAO: Contracts
+# lastest state in `#dev`
+
+`Note from m1guelpf#4217`
+
+*Hey devs! We experimented with a bunch of ideas regarding different ways to approach raising the funds, but have decided to end up going with Juicebox, which has already been audited and should be much more solid than anything we can get out in a few days. I'm super thankful of everyone who has dedicated their time to building the "unofficial" contracts, but since we're not going to be using those and we don't want any confusion, we would like to ask y'all to rename the GitHub organization (since right now it looks a bit more official than it actually is).*
+
+*We're closing off the crowdfund efforts, and we could really use everyone's help in spreading the word when we annunce them in a few hours, so we'd like to ask y'all to direct your efforts to marketing. Get creative! Let's get as many people as possible to know about this 🔥*
 
 ## How to contribute
 
