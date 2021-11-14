@@ -21,11 +21,11 @@
 ### What are people working on?
 
 - `@alicemama` is in leading the website
-- `@pmoncada` is leading in the #dev channel right now
-- `@sethfork` owns the org / repos
 - `@jango` is leading juicebox.money
-- `@bwags` is setting up multisig
-- `@ty` is managing this README
+- `@bwags` is leading multisig
+- `@sethfork` owns the org / repos
+- `@pmoncada` was keeping #dev aligned with core team until it was made `read-only`
+- `@ty` kept this page updated with latest in #dev until it was made `read-only`
 
 ### What are things we might want to start doing?
 - We could use help auditing the Juicebox protocol and contracts
