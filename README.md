@@ -87,7 +87,7 @@ A: not yet but erc20 project tokens on L1 can naturally be bridged to L2s or sid
 
 **Q: Are we creating anything custom?**
 
-A: No. We cannot make our own super secure solidity contracts in 5 days. We are going to use battletested tools
+A: No. We cannot make our own super secure solidity contracts in 5 days. We are going to use battletested tools. Juicebox.money did a big workshop earlier explaining all their contracts
 
 **Q: What is our highest priority?**
 
