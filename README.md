@@ -12,7 +12,7 @@
 
 1. [Juicebox Protocol](https://juicebox.money/) was best equipped to roll up their sleeves on work with us on deploying the contract that will enable us to pursue this monumental undertaking (and waive all of their fees 🙏). Their work with SharkDAO and others is a testament to what they can accomplish and we're glad to have them on board. The community should look over the contracts. `@jango` is the contact for getting oriented there.
 
-2. In the meantime, we have a repo where we can start organizing devs and getting people on the same page with things. There's a HIGH chance we don't end up using any smart contracts that we write in there, but it's a good place to start discussions about governance and technical specifics about what we want to do. Hit up @sethfork to get oriented there.
+2. In the meantime, we have a repo where we can start organizing devs and getting people on the same page with things. This GitHub repo is NOT going to be used for the crowdfund. Not the frontend or the solidity contracts. We are not building anything custom for the token raising. The GitHub is only for coordinating the future plans with some of the awesome solidity and frontend devs that want to help us make this even better the next time we do something like this. Looking to the future with that one.
 
 3. If you don't want to do #1 or #2, then look at `What are people working on?` and `What are things we might want to start doing?` below. Find something that interests you / matches your skillset and reach out to the most relevant team member (roles listed below) in #dev on discord.
 
@@ -84,6 +84,10 @@ We are thinking throu
 A: not yet but erc20 project tokens on L1 can naturally be bridged to L2s or sidechains
 
 ### General FAQs
+
+**Q: Are we creating anything custom?**
+
+A: No. We cannot make our own super secure solidity contracts in 5 days. We are going to use battletested tools
 
 **Q: What is our highest priority?**
 
