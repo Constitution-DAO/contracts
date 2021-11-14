@@ -28,8 +28,7 @@
 
 ### What are things we might want to start doing?
 - We could use help auditing the Juicebox protocol and contracts
-- Make proposals in PRs and we can get moving on decision making wrt governance/tokens/etc.
-- It would be great to coordinate with #design-and-marketing-🎨 for a quick prototype of a minimal fundraising page
+- Make proposals in PRs and we can get moving on decision making wrt governance/tokens/etc. for the future
 
 ### Juicebox FAQs
 
