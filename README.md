@@ -20,10 +20,9 @@
 
 - `@alicemama` is in leading the website
 - `@pmoncada` is leading in the #dev channel right now
-- `@sethfork` is leading OpenZeppelin and owns the org / repos
-- `@jango` is leading juicebox.money and web3 workshops
+- `@sethfork` owns the org / repos
+- `@jango` is leading juicebox.money
 - `@bwags` is setting up multisig
-- `@ncitron` is working on tests for the contracts
 - `@ty` is managing this README
 
 ### What are things we might want to start doing?
