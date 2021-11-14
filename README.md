@@ -1,4 +1,4 @@
-# lastest state in `#dev` (as of 9:30pm PST on Nov 14th)
+# lastest state in `#dev` (as of 9:30pm PST on Nov 13th)
 
 `Note from @m1guelpf#4217`
 
