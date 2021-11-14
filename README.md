@@ -6,12 +6,6 @@
 
 *We're closing off the crowdfund efforts, and we could really use everyone's help in spreading the word when we annunce them in a few hours, so we'd like to ask y'all to direct your efforts to marketing. Get creative! Let's get as many people as possible to know about this 🔥*
 
-## How to contribute
-
-1. Please join #dev on the discord
-2. Ask [@sethfork](https://github.com/sethfork) to add you to the GitHub org / repos
-3. Read `Getting started` below
-
 ## Docs
 
 ### Getting started
